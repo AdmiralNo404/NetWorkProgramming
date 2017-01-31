@@ -1,0 +1,12 @@
+# Filename: config.txt
+# Description: This is the config file for proxy server
+# Author: Yanbang Liu
+# Date: December 5, 2015
+
+# block complete access to the following sites
+www.amazon.com
+www.youtube.com
+# block all gif files from www.microsoft.com
+www.microsoft.com image/gif
+# block all images i.e. gif, jpeg, png,
+www.apple.com image/*

@@ -1,0 +1,40 @@
+html, body {
+   height: 100%;
+   margin: 0;
+   padding: 0;
+ }
+ #map {
+   height: 100%;
+ }
+ #panel {
+   position: absolute;
+   top: 5%;
+   left: 1%;
+   z-index: 5;
+   background-color: #fff;
+   padding: 5px;
+   border: 1px solid #999;
+   text-align: left;
+   font-family: 'Roboto','sans-serif';
+   line-height: 30px;
+   padding-left: 10px;
+ }
+ h1 {
+   text-align: center;
+ }
+ p.architects {
+   text-align: center;
+   font-weight: bold;
+ }
+ p.description {
+   text-align: justify;
+ }
+ div.content {
+   width: 400px;
+ }
+ img.infoImg {
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   width: 300px;
+ }

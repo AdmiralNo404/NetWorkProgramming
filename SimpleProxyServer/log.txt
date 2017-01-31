@@ -1,0 +1,211 @@
+GET http://www-users.cselabs.umn.edu/classes/Fall-2015/csci4131/ HTTP/1.1
+Host: www-users.cselabs.umn.edu
+Proxy-Connection: keep-alive
+Cache-Control: max-age=0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.73 Safari/537.36
+Referer: https://www.google.com/
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8
+Cookie: UMNPHYS_PERSIST=shibb%7Cliux1366%7C; _ga=GA1.2.936518957.1378914209; __utma=208289869.936518957.1378914209.1449507212.1449520103.79; __utmc=208289869; __utmz=208289869.1443466102.53.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+
+HTTP/1.1 200 OK
+Date: Mon, 07 Dec 2015 22:21:50 GMT
+Server: Apache
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Content-Length: 9435
+Connection: close
+Content-Type: text/html
+
+HTTP/1.1 200 OK
+Date: Mon, 07 Dec 2015 22:21:50 GMT
+Server: Apache
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Content-Length: 9435
+Connection: close
+Content-Type: text/html
+
+GET http://www-users.cselabs.umn.edu/classes/Fall-2015/csci4131/white HTTP/1.1
+Host: www-users.cselabs.umn.edu
+Proxy-Connection: keep-alive
+Cache-Control: max-age=0
+Accept: image/webp,image/*,*/*;q=0.8
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.73 Safari/537.36
+Referer: http://www-users.cselabs.umn.edu/classes/Fall-2015/csci4131/
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8
+Cookie: UMNPHYS_PERSIST=shibb%7Cliux1366%7C; _ga=GA1.2.936518957.1378914209; __utma=208289869.936518957.1378914209.1449507212.1449520103.79; __utmc=208289869; __utmz=208289869.1443466102.53.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+
+GET http://www-users.cselabs.umn.edu/classes/Fall-2015/csci4131/uofm.jpg HTTP/1.1
+Host: www-users.cselabs.umn.edu
+Proxy-Connection: keep-alive
+Cache-Control: max-age=0
+Accept: image/webp,image/*,*/*;q=0.8
+If-None-Match: "440922-275f-51ff2e883112e"
+If-Modified-Since: Thu, 17 Sep 2015 15:17:07 GMT
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.73 Safari/537.36
+Referer: http://www-users.cselabs.umn.edu/classes/Fall-2015/csci4131/
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8
+Cookie: UMNPHYS_PERSIST=shibb%7Cliux1366%7C; _ga=GA1.2.936518957.1378914209; __utma=208289869.936518957.1378914209.1449507212.1449520103.79; __utmc=208289869; __utmz=208289869.1443466102.53.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+
+HTTP/1.1 404 Not Found
+Date: Mon, 07 Dec 2015 22:21:50 GMT
+Server: Apache
+Vary: accept-language,accept-charset,Accept-Encoding
+Accept-Ranges: bytes
+Content-Encoding: gzip
+Content-Length: 686
+Connection: close
+Content-Type: text/html; charset=iso-8859-1
+Content-Language: en
+
+HTTP/1.1 304 Not Modified
+Date: Mon, 07 Dec 2015 22:21:50 GMT
+Server: Apache
+Connection: close
+ETag: "440922-275f-51ff2e883112e"
+
+GET http://www-users.cselabs.umn.edu/favicon.ico HTTP/1.1
+Host: www-users.cselabs.umn.edu
+Proxy-Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.73 Safari/537.36
+Accept: */*
+Referer: http://www-users.cselabs.umn.edu/classes/Fall-2015/csci4131/
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8
+Cookie: UMNPHYS_PERSIST=shibb%7Cliux1366%7C; _ga=GA1.2.936518957.1378914209; __utma=208289869.936518957.1378914209.1449507212.1449520103.79; __utmc=208289869; __utmz=208289869.1443466102.53.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+
+HTTP/1.1 200 OK
+Date: Mon, 07 Dec 2015 22:21:50 GMT
+Server: Apache
+Last-Modified: Tue, 12 Oct 2004 15:27:43 GMT
+ETag: "4439e0-0-3e641b7ea99c0"
+Accept-Ranges: bytes
+Content-Length: 0
+Connection: close
+Content-Type: image/x-icon
+
+GET http://www.amazon.com/ HTTP/1.1
+Host: www.amazon.com
+Proxy-Connection: keep-alive
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.73 Safari/537.36
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8
+Cookie: x-wl-uid=1xB4rHr4P4iyUYrU9bj1kFUhKNNreURm+I26RUlZtUa1XFuRwjrCzxQ35YgFcwkS0W0tWLV74NBo=; session-token=Ndf9HOxYr2/4Z6am8ZtqCQ/MkfBBIN8Eg0xtDkp5+rnTJ/MZpwJ6baikVlML8boBhYd0sTZeQDYUg58RQgvTGKGfkF5jvCy/S6vtu3gbT9Nz/bKR/G85i9LTH5f7NaQwqkYRGqOFZV9HpGw20INC0CBeEJK3+3fVkdqI1tmmD4BOffUW61sp8jcdnHapq7UkdFtRjIB8vyyvTBmuKnl1BDkFYoQd5cqXJidYfLi+9JuP7lIANrhoLO/t6fIz85Hd; csm-hit=2R9P72AYKVFZGVMNPCHE+s-2R9P72AYKVFZGVMNPCHE|1449523758727; skin=noskin; ubid-main=191-6747703-4915864; session-id-time=2082787201l; session-id=190-7796318-9698631
+
+HTTP/1.1 200 OK
+Date: Mon, 07 Dec 2015 22:22:07 GMT
+Server: Server
+Set-Cookie: skin=noskin; path=/; domain=.amazon.com
+pragma: no-cache
+x-amz-id-1: 1VVZ9XV8Z4AYW6PQGDE2
+p3p: policyref="https://www.amazon.com/w3c/p3p.xml",CP="CAO DSP LAW CUR ADM IVAo IVDo CONo OTPo OUR DELi PUBi OTRi BUS PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA HEA PRE LOC GOV OTC "
+cache-control: no-cache
+x-frame-options: SAMEORIGIN
+expires: -1
+Vary: Accept-Encoding,User-Agent,Avail-Dictionary
+Content-Encoding: gzip
+Content-Type: text/html; charset=UTF-8
+Set-cookie: ubid-main=191-6747703-4915864; path=/; domain=.amazon.com; expires=Tue, 01-Jan-2036 08:00:01 GMT
+Set-cookie: session-id-time=2082787201l; path=/; domain=.amazon.com; expires=Tue, 01-Jan-2036 08:00:01 GMT
+Set-cookie: session-id=190-7796318-9698631; path=/; domain=.amazon.com; expires=Tue, 01-Jan-2036 08:00:01 GMT
+Transfer-Encoding: chunked
+
+www.amazon.com::blocked
+GET http://www.amazon.com/favicon.ico HTTP/1.1
+Host: www.amazon.com
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.73 Safari/537.36
+Accept: */*
+Referer: http://www.amazon.com/
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8
+Cookie: x-wl-uid=1xB4rHr4P4iyUYrU9bj1kFUhKNNreURm+I26RUlZtUa1XFuRwjrCzxQ35YgFcwkS0W0tWLV74NBo=; session-token=Ndf9HOxYr2/4Z6am8ZtqCQ/MkfBBIN8Eg0xtDkp5+rnTJ/MZpwJ6baikVlML8boBhYd0sTZeQDYUg58RQgvTGKGfkF5jvCy/S6vtu3gbT9Nz/bKR/G85i9LTH5f7NaQwqkYRGqOFZV9HpGw20INC0CBeEJK3+3fVkdqI1tmmD4BOffUW61sp8jcdnHapq7UkdFtRjIB8vyyvTBmuKnl1BDkFYoQd5cqXJidYfLi+9JuP7lIANrhoLO/t6fIz85Hd; csm-hit=2R9P72AYKVFZGVMNPCHE+s-2R9P72AYKVFZGVMNPCHE|1449523758727; skin=noskin; ubid-main=191-6747703-4915864; session-id-time=2082787201l; session-id=190-7796318-9698631
+
+HTTP/1.1 200 OK
+Date: Mon, 07 Dec 2015 22:22:07 GMT
+Server: Server
+Last-Modified: Tue, 21 Sep 2010 17:37:41 GMT
+ETag: "4486-490c87c5a6340-gzip"
+Accept-Ranges: bytes
+Vary: Accept-Encoding,User-Agent,Avail-Dictionary
+Content-Encoding: gzip
+Content-Length: 2590
+Content-Type: image/x-icon
+
+www.amazon.com::blocked
+GET http://www.amazon.com/ HTTP/1.1
+Host: www.amazon.com
+Proxy-Connection: keep-alive
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.73 Safari/537.36
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8
+Cookie: x-wl-uid=1xB4rHr4P4iyUYrU9bj1kFUhKNNreURm+I26RUlZtUa1XFuRwjrCzxQ35YgFcwkS0W0tWLV74NBo=; session-token=Ndf9HOxYr2/4Z6am8ZtqCQ/MkfBBIN8Eg0xtDkp5+rnTJ/MZpwJ6baikVlML8boBhYd0sTZeQDYUg58RQgvTGKGfkF5jvCy/S6vtu3gbT9Nz/bKR/G85i9LTH5f7NaQwqkYRGqOFZV9HpGw20INC0CBeEJK3+3fVkdqI1tmmD4BOffUW61sp8jcdnHapq7UkdFtRjIB8vyyvTBmuKnl1BDkFYoQd5cqXJidYfLi+9JuP7lIANrhoLO/t6fIz85Hd; csm-hit=2R9P72AYKVFZGVMNPCHE+s-2R9P72AYKVFZGVMNPCHE|1449523758727; skin=noskin; ubid-main=191-6747703-4915864; session-id-time=2082787201l; session-id=190-7796318-9698631
+
+HTTP/1.1 200 OK
+Date: Mon, 07 Dec 2015 22:22:08 GMT
+Server: Server
+Set-Cookie: skin=noskin; path=/; domain=.amazon.com
+pragma: no-cache
+x-amz-id-1: 09SF4JX0Q5PPQC63X16E
+p3p: policyref="https://www.amazon.com/w3c/p3p.xml",CP="CAO DSP LAW CUR ADM IVAo IVDo CONo OTPo OUR DELi PUBi OTRi BUS PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA HEA PRE LOC GOV OTC "
+cache-control: no-cache
+x-frame-options: SAMEORIGIN
+expires: -1
+Vary: Accept-Encoding,User-Agent,Avail-Dictionary
+Content-Encoding: gzip
+Content-Type: text/html; charset=UTF-8
+Set-cookie: ubid-main=191-6747703-4915864; path=/; domain=.amazon.com; expires=Tue, 01-Jan-2036 08:00:01 GMT
+Set-cookie: session-id-time=2082787201l; path=/; domain=.amazon.com; expires=Tue, 01-Jan-2036 08:00:01 GMT
+Set-cookie: session-id=190-7796318-9698631; path=/; domain=.amazon.com; expires=Tue, 01-Jan-2036 08:00:01 GMT
+Transfer-Encoding: chunked
+
+www.amazon.com::blocked
+GET http://www.amazon.com/favicon.ico HTTP/1.1
+Host: www.amazon.com
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.73 Safari/537.36
+Accept: */*
+Referer: http://www.amazon.com/
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8
+Cookie: x-wl-uid=1xB4rHr4P4iyUYrU9bj1kFUhKNNreURm+I26RUlZtUa1XFuRwjrCzxQ35YgFcwkS0W0tWLV74NBo=; session-token=Ndf9HOxYr2/4Z6am8ZtqCQ/MkfBBIN8Eg0xtDkp5+rnTJ/MZpwJ6baikVlML8boBhYd0sTZeQDYUg58RQgvTGKGfkF5jvCy/S6vtu3gbT9Nz/bKR/G85i9LTH5f7NaQwqkYRGqOFZV9HpGw20INC0CBeEJK3+3fVkdqI1tmmD4BOffUW61sp8jcdnHapq7UkdFtRjIB8vyyvTBmuKnl1BDkFYoQd5cqXJidYfLi+9JuP7lIANrhoLO/t6fIz85Hd; csm-hit=2R9P72AYKVFZGVMNPCHE+s-2R9P72AYKVFZGVMNPCHE|1449523758727; skin=noskin; ubid-main=191-6747703-4915864; session-id-time=2082787201l; session-id=190-7796318-9698631
+
+HTTP/1.1 200 OK
+Date: Mon, 07 Dec 2015 22:22:08 GMT
+Server: Server
+Last-Modified: Tue, 21 Sep 2010 17:37:41 GMT
+ETag: "4486-490c87c5a6340-gzip"
+Accept-Ranges: bytes
+Vary: Accept-Encoding,User-Agent,Avail-Dictionary
+Content-Encoding: gzip
+Content-Length: 2590
+Content-Type: image/x-icon
+
+www.amazon.com::blocked
+GET http://moodle.umn.edu/ HTTP/1.1
+Host: moodle.umn.edu
+Proxy-Connection: keep-alive
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.73 Safari/537.36
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8
+Cookie: UMNPHYS_PERSIST=shibb%7Cliux1366%7C; _ga=GA1.2.936518957.1378914209; __utma=208289869.936518957.1378914209.1449507212.1449520103.79; __utmc=208289869; __utmz=208289869.1443466102.53.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+
+HTTP/1.0 302 Found
+Location: https://moodle.umn.eduhttp://moodle.umn.edu/
+Server: BigIP
+Connection: close
+Content-Length: 0
+
